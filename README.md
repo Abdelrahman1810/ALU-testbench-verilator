@@ -28,8 +28,8 @@ sudo apt install git -y
 ### 2️⃣ Clone the Repository
 
 ```sh
-git clone <REPOSITORY_URL>
-cd <REPOSITORY_NAME>
+git clone https://github.com/Abdelrahman1810/ALU-testbench-verilator.git
+cd ALU-testbench-verilator
 ```
 ### 3️⃣ Run the Setup Script
 This will install dependencies, extract the virtual environment, and run the testbench.
